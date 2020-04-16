@@ -1,0 +1,25 @@
+{
+  "name": "employeeTracker",
+  "version": "1.0.0",
+  "description": "command line app utilizing mysql to track employees and managers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcerrillo1/employeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcerrillo1/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/mcerrillo1/employeeTracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
